@@ -24,4 +24,10 @@ asdf
 asdf
 
 ### 10. EM Algorithm
-asdf
+> <https://operatingsystems.tistory.com/entry/Data-Mining-EM-algorithm> (Korean)
+> 
+> <https://datascienceschool.net/view-notebook/c2934b8a2f9140e4b8364b266b1aa0d8/> (Korean)
+> 
+> <https://untitledtblog.tistory.com/133> (Korean)
+>
+> <https://3months.tistory.com/154> (Korean)
