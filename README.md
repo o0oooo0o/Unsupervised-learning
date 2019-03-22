@@ -21,7 +21,9 @@ Most of them are Korean sites, but there are also foreign sites sometimes. They 
 asdf
 
 ### 9. K-means
-asdf
+> <https://ko.wikipedia.org/wiki/K-%ED%8F%89%EA%B7%A0_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98> (Wiki)
+> 
+> <https://jonchar.net/notebooks/k-means/> (English)
 
 ### 10. EM Algorithm
 > <https://operatingsystems.tistory.com/entry/Data-Mining-EM-algorithm> (Korean)
