@@ -18,7 +18,13 @@ Most of them are Korean sites, but there are also foreign sites sometimes. They 
 ## [Sites]  
 
 ### 8. PCA
-asdf
+> <https://darkpgmr.tistory.com/110> (Korean)
+>
+> <https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html> (English)
+>
+> <https://ratsgo.github.io/machine%20learning/2017/04/24/PCA/> (Korean)
+>
+> <https://wikidocs.net/7646> (Korean)
 
 ### 9. K-means
 > <https://ko.wikipedia.org/wiki/K-%ED%8F%89%EA%B7%A0_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98> (Wiki)
